@@ -13,8 +13,8 @@ This is a fun, foundational project design to give a baseline understanding of d
 2. User taps card  to flip the card over. —> Change the card color (so it looks like it's flipped) and add emoji
 3. User taps another card to flip it over. —> Change the card color (so it looks like it's flipped) and add emoji
 4. Once two cards are flipped, check whether they have the same emoji.
-        - Same emoji: remove cards from board, check whether the game should continue
-        - Not same emoji: flip cards back over
+- Same emoji: remove cards from board, check whether the game should continue
+- Not same emoji: flip cards back over
 
 
 **Key Requirements** 
