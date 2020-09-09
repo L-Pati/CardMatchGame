@@ -5,6 +5,8 @@
 **Developer Notes** 
 This is a fun, foundational project design to give a baseline understanding of developing apps in Xcode. Once you have a solid grip, this project can be updated to have more cards, leverage more features, use higher order functions, refine logic, and have better design. The sky is the limit! 
 
+***Be sure to change the team and add your name to the bundle identifier by clicking the main project name in the top left file list. An AppleID is required to run and install on a device***
+
 
 **Logic**
 1. All cards start face side down.  —> All cards have the same starting color, no emoji

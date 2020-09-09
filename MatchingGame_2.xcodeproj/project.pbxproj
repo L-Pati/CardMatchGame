@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		92CED2BF25068E9700286AC2 /* MatchingGame_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MatchingGame_2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		92CED2BF25068E9700286AC2 /* MatchingGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MatchingGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92CED2C225068E9700286AC2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		92CED2C425068E9700286AC2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		92CED2C625068E9700286AC2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 		92CED2C025068E9700286AC2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				92CED2BF25068E9700286AC2 /* MatchingGame_2.app */,
+				92CED2BF25068E9700286AC2 /* MatchingGame.app */,
 				92CED2D525068E9A00286AC2 /* MatchingGame_2Tests.xctest */,
 				92CED2E025068E9A00286AC2 /* MatchingGame_2UITests.xctest */,
 			);
@@ -145,7 +145,7 @@
 			);
 			name = MatchingGame_2;
 			productName = MatchingGame_2;
-			productReference = 92CED2BF25068E9700286AC2 /* MatchingGame_2.app */;
+			productReference = 92CED2BF25068E9700286AC2 /* MatchingGame.app */;
 			productType = "com.apple.product-type.application";
 		};
 		92CED2D425068E9A00286AC2 /* MatchingGame_2Tests */ = {
@@ -435,14 +435,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = LF6A9T947Z;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MatchingGame_2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.laurenpati.WorkshopProject.MatchingGame-2";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.YOURNAME.WorkshopProject.MatchingGame;
+				PRODUCT_NAME = MatchingGame;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -453,14 +453,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = LF6A9T947Z;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MatchingGame_2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.laurenpati.WorkshopProject.MatchingGame-2";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.YOURNAME.WorkshopProject.MatchingGame;
+				PRODUCT_NAME = MatchingGame;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
