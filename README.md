@@ -3,12 +3,14 @@
 ### Concept: Find the cards with the matching emoji. Match all cards to win. 
 
 **Developer Notes** 
+
 This is a fun, foundational project design to give a baseline understanding of developing apps in Xcode. Once you have a solid grip, this project can be updated to have more cards, leverage more features, use higher order functions, refine logic, and have better UI design, etc. The sky is the limit! 
 
 ***Be sure to change the team and add your name to the bundle identifier by clicking the main project name in the top left file list. An AppleID is required to run and install on a device***
 
 
 **Logic**
+
 1. All cards start face side down.  —> All cards have the same starting color, no emoji
 2. User taps card  to flip the card over. —> Change the card color (so it looks like it's flipped) and add emoji
 3. User taps another card to flip it over. —> Change the card color (so it looks like it's flipped) and add emoji
@@ -18,11 +20,13 @@ This is a fun, foundational project design to give a baseline understanding of d
 
 
 **Key Requirements** 
+
 1. We'll need to keep track of what cards are available on the board
 2. We'll need to keep track of what cards are flipped
 
 
-**UI**
+**User Interface**
+
 Add a button to the screen, set background color to black, remove text, and resize to make it look like a card.
 Copy and paste the button until you have desired number of buttons. 
 Set constraints using the constraints and align tool.
@@ -39,6 +43,7 @@ For the 4 cards used in the project, here's how they're constrained:
 
 
 **Button States**
+
 When a button is selected, you may notice that the emoji shows as white. You'll need to change the color for the selected state fore each button:
 -  Select button --> change to selected on the right --> change the tint color and background color --> Save/Run project and note the change when you select a button.
 
