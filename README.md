@@ -22,7 +22,7 @@ This is a fun, foundational project design to give a baseline understanding of d
 2. We'll need to keep track of what cards are flipped
 
 
-**UI**
+**User Interface**
 Add a button to the screen, set background color to black, remove text, and resize to make it look like a card.
 Copy and paste the button until you have desired number of buttons. 
 Set constraints using the constraints and align tool.
